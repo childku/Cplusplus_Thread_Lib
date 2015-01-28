@@ -2,7 +2,7 @@
 
 #ifndef _CTHREAD_H_
 #define _CTHREAD_H_
-
+# my comment
 /********************************************************************************************
 *
 *File name: CThread.h
